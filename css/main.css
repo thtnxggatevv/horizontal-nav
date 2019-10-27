@@ -1,13 +1,14 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  background-color: #dbd6cf
+  background-color: #dbd6cf;
 }
 
-*, *::before, *::after{
+*, *::before, *::after {
   box-sizing: inherit;
 }
-header {
+
+  header {
    padding: .01rem;
 }
 
@@ -15,7 +16,7 @@ body {
   background-color: #79756f;
   padding: .1rem;
   margin: 0;
-  border: 2px solid #595652
+  border: 2px solid #595652;
 }
 
 h1 {
