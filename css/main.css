@@ -15,7 +15,7 @@ header {
 body {
   background-color: #79756f;
   padding: .1rem;
-  margin: .3rem;
+  margin: .3em;
   border: 2px solid #595652;
 }
 
@@ -40,8 +40,14 @@ a {
   display: inline-block;
 }
 
-a:hover {
-  color: #f33;
+.box:hover {
+  background-color: #f33;
+}
+
+.box-1 {
+  background-color: #713837;
+  padding: .6em;
+  border-radius: 3px;
 }
 
 .box-2 {
