@@ -1,5 +1,5 @@
 html {
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-  font-family: "Bevan", serif;
+  font-family: Bevan, serif;
   font-size: 2rem;
   color: #fff;
   text-align: center;
@@ -21,9 +21,9 @@ h1 {
 
 .wrapper {
   background-color: #79756f;
-  border-top: 0.125rem solid #595652;
-  border-bottom: 0.125rem solid #595652;
-  padding-bottom: 0.75em;
+  border-top: .125rem solid #595652;
+  border-bottom: .125rem solid #595652;
+  padding-bottom: .75em;
 }
 
 a {
@@ -34,7 +34,7 @@ a {
   font-size: 1rem;
   padding: .6em;
   background-color: #713837;
-  border-radius: 0.120rem;
+  border-radius: .120rem;
 }
 
 a:hover {
@@ -47,5 +47,5 @@ ul {
 }
 
 li {
-  display:inline-block;
+  display: inline-block;
 }
